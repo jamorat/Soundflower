@@ -1,3 +1,7 @@
+Wednesday May 18 3:05 AM EST
+
+I am making my own version of this sound recorder to distribute and possibly sell. So that audio from different applications can be recorded, for example instead of just microphone with screen recording can also choose audio.
+
 
 **M1 chip-based Macs are NOT YET SUPPORTED**
 
